@@ -1,0 +1,53 @@
+{
+  "date": "26/01/2021",
+  "location": [
+    {
+      "location_id": "2",
+      "location_level": "region"
+    }
+  ],
+  "operator": {
+    "mtn": {
+      "2g": {
+        "na": 99.06,
+        "voice_sa": 89.09,
+        "voice_sr": 0.78
+      },
+      "3g": {
+        "na": 99.06,
+        "voice_sa": 89.09,
+        "voice_sr": 0.78,
+        "data_sa": 99.09,
+        "data_sr": 0.89,
+        "data_si": 9.68
+      },
+      "4g": {
+        "na": 92.06,
+        "data_sa": 89.09,
+        "data_sr": 0.47,
+        "data_si": 19.68
+      }
+    },
+    "eswatini_mobile": {
+      "2g": {
+        "na": 92.06,
+        "voice_sa": 98.09,
+        "voice_sr": 0.64
+      },
+      "3g": {
+        "na": 99.06,
+        "voice_sa": 89.09,
+        "voice_sr": 0.78,
+        "data_sa": 99.09,
+        "data_sr": 0.89,
+        "data_si": 9.68
+      },
+      "4g": {
+        "na": 92.06,
+        "data_sa": 89.09,
+        "data_sr": 0.47,
+        "data_si": 19.68
+      }
+    }
+  }
+}
